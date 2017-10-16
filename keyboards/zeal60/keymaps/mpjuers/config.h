@@ -1,8 +1,6 @@
 #ifndef CONFIG_USER_H
 #define CONFIG_USER_H
 
-#define TAPPING_TERM 200
-
 #include "../../config.h"
 
 /* enable/disable LEDs based on layout */
@@ -23,5 +21,7 @@
 
 #undef BACKLIGHT_DISABLE_HHKB_BLOCKER_LEDS
 #define BACKLIGHT_DISABLE_HHKB_BLOCKER_LEDS 0
+
+#define TAPPING_TERM 200
 
 #endif //CONFIG_USER_H 

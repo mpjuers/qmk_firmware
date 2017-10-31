@@ -3,6 +3,8 @@
 
 #define TAPPING_TERM 200
 
+#define BACKLIGHT_BREATHING
+
 #include "../../config.h"
 
 /* enable/disable LEDs based on layout */

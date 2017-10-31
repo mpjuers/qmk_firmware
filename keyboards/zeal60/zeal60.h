@@ -1,7 +1,7 @@
 #ifndef ZEAL60_H
 #define ZEAL60_H
 
-#include "quantum.h"
+#include "../../quantum/quantum.h"
 
 #include "zeal_keycode.h"
 
